@@ -12,5 +12,7 @@ I advise you to change the device serial number in the config.plist file
 # What works?
 Internet, sound, all other basic functions of a regular computer, no additional kext files are required.
 All Apple services are working fine, no critical errors were found.
+# How to install?
+Replace all files and folders in your EFI folder with those you download here
 # Other
 The installed kext files related to monitoring processor temperatures do not work on versions of MacOS Sonoma, Ventura, and there is no need for them, but in order not to break anything, it is better to leave them as they are, they do not affect the operation of the system in any way
