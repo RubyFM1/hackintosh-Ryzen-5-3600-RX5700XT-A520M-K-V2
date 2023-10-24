@@ -1,10 +1,11 @@
-# hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2
 # Description 
 This EFI folder is only suitable for this configuration:
 CPU - Ryzen 5 3600
 GPU - RX 5700 XT
 MB - Gigabyte A520M K V2
 if you try to use this folder with a different configuration, you will get a kernel panic, and everything like that, the system simply won’t start
+# OS updates
+To update your system, no additional steps are required in the bootloader files, installed from the Apple app store
 # SMBIOS
 iMacPro 1,1
 I advise you to change the device serial number in the config.plist file
