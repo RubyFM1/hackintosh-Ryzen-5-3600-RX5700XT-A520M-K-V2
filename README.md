@@ -1,4 +1,5 @@
-# Description 
+ ![photo_2023-10-24 12 54 22](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/assets/145806846/dfa53112-53ba-4a45-ba7d-7e0d8c81f9a5)
+# Description
 This EFI folder is only suitable for this configuration:
 CPU - Ryzen 5 3600
 GPU - RX 5700 XT
