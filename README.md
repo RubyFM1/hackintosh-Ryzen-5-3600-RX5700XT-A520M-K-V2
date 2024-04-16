@@ -1,4 +1,14 @@
  ![photo_2023-10-24 12 54 22](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/assets/145806846/dfa53112-53ba-4a45-ba7d-7e0d8c81f9a5)
+ # Update
+ **What's new?**
+**Install the new version in the release** 
+1. The previous version had some critical bugs that caused kernel panic, the new version is adapted for motherboards: B550, and A520 (including different versions and modifications of these motherboards).
+2. Removed all unnecessary kext files that made no sense or caused errors 
+3. Updated version of OpenCore to the latest actual version
+4. Updated kext files to the latest actual versions.
+5. Rewritten config.plist file
+
+This version is configured for ryzen5 3600, rx5700xt, a520m k v2 system, but you can use this EFI with rx 5xxx or 6xxx video cards without additional customization, in order to adapt this configurator for other ryzen processors you need to make some changes in config.plist, if you don't know it, it's better not to do anything and ask for advice on forums.
 # Description
 This EFI folder is only suitable for this configuration:
 CPU - Ryzen 5 3600
