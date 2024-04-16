@@ -2,6 +2,7 @@
  # Update
  **What's new?**
 **Install the new version in the release** 
+You will probably have to do USB Mapping using USBToolBox, otherwise there is a chance that nothing will work 
 1. The previous version had some critical bugs that caused kernel panic, the new version is adapted for motherboards: B550, and A520 (including different versions and modifications of these motherboards).
 2. Removed all unnecessary kext files that made no sense or caused errors 
 3. Updated version of OpenCore to the latest actual version
