@@ -1,4 +1,4 @@
- ![photo_2023-10-24 12 54 22](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/assets/145806846/dfa53112-53ba-4a45-ba7d-7e0d8c81f9a5)
+ ![photo](https://github.com/RubyFM1/phototototot/blob/main/Снимок%20экрана%202024-09-16%20в%2017.11.31.png)
  # Update
  **V3 Ready**
  
