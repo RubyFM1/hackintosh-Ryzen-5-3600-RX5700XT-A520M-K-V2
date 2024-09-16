@@ -12,21 +12,13 @@
 6. In the Drivers folder I left only the most necessary drivers
 7. Improved overall system stability
 
+This version is configured for ryzen5 3600, rx5700xt, a520m k v2 system, but you can use this EFI with rx 5xxx or 6xxx video cards without additional customization, in order to adapt this configurator for other ryzen processors you need to make some changes in config.plist, if you don't know it, it's better not to do anything and ask for advice on forums.
+
 **What about MasOS 15?**
 
 At this time installing macOS 15 on this configuration is not available for reasons unknown to me, I have been trying to resolve the issue for several days but without success, if you have any information regarding installing macOS 15 on this configuration please let me know.
 As soon as I find a solution to this problem, I will upload a new version under macOS 15.
 
- **What's new?**
-**Install the new version in the release** 
-You will probably have to do USB Mapping using USBToolBox, otherwise there is a chance that nothing will work 
-1. The previous version had some critical bugs that caused kernel panic, the new version is adapted for motherboards: B550, and A520 (including different versions and modifications of these motherboards).
-2. Removed all unnecessary kext files that made no sense or caused errors 
-3. Updated version of OpenCore to the latest actual version
-4. Updated kext files to the latest actual versions.
-5. Rewritten config.plist file
-
-This version is configured for ryzen5 3600, rx5700xt, a520m k v2 system, but you can use this EFI with rx 5xxx or 6xxx video cards without additional customization, in order to adapt this configurator for other ryzen processors you need to make some changes in config.plist, if you don't know it, it's better not to do anything and ask for advice on forums.
 # Description
 This EFI folder is only suitable for this configuration:
 CPU - Ryzen 5 3600
