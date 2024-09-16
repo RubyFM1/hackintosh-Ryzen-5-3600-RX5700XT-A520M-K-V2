@@ -8,7 +8,7 @@
  
  What's new?
 
-1. SMBIOS updated, was iMacPro 7.1, became iMac 19.1
+1. SMBIOS updated, was iMacPro 1.1, became iMac 19.1
 2. Added several kext files for stable operation of AMD processors
 3. Rewritten config.plist file, more organized
 4. Updated all kext files to the latest version
