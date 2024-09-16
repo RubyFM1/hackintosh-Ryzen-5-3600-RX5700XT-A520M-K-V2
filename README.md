@@ -15,6 +15,7 @@ Improved overall system stability
 
 At this time installing macOS 15 on this configuration is not available for reasons unknown to me, I have been trying to resolve the issue for several days but without success, if you have any information regarding installing macOS 15 on this configuration please let me know.
 As soon as I find a solution to this problem, I will upload a new version under macOS 15.
+
  **What's new?**
 **Install the new version in the release** 
 You will probably have to do USB Mapping using USBToolBox, otherwise there is a chance that nothing will work 
