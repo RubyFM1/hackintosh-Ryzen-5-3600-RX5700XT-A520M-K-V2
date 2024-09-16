@@ -1,5 +1,20 @@
  ![photo_2023-10-24 12 54 22](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/assets/145806846/dfa53112-53ba-4a45-ba7d-7e0d8c81f9a5)
  # Update
+ **V3 Ready**
+ What's new?
+
+SMBIOS updated, was iMacPro 7.1, became iMac 19.1
+Added several kext files for stable operation of AMD processors
+Rewritten config.plist file, more organized
+Updated all kext files to the latest version
+Updated Opencore to the latest version available
+In the Drivers folder I left only the most necessary drivers
+Improved overall system stability
+
+**What about MasOS 15?**
+
+At this time installing macOS 15 on this configuration is not available for reasons unknown to me, I have been trying to resolve the issue for several days but without success, if you have any information regarding installing macOS 15 on this configuration please let me know.
+As soon as I find a solution to this problem, I will upload a new version under macOS 15.
  **What's new?**
 **Install the new version in the release** 
 You will probably have to do USB Mapping using USBToolBox, otherwise there is a chance that nothing will work 
