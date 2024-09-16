@@ -1,15 +1,16 @@
  ![photo_2023-10-24 12 54 22](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/assets/145806846/dfa53112-53ba-4a45-ba7d-7e0d8c81f9a5)
  # Update
  **V3 Ready**
+ 
  What's new?
 
-SMBIOS updated, was iMacPro 7.1, became iMac 19.1
-Added several kext files for stable operation of AMD processors
-Rewritten config.plist file, more organized
-Updated all kext files to the latest version
-Updated Opencore to the latest version available
-In the Drivers folder I left only the most necessary drivers
-Improved overall system stability
+1. SMBIOS updated, was iMacPro 7.1, became iMac 19.1
+2. Added several kext files for stable operation of AMD processors
+3. Rewritten config.plist file, more organized
+4. Updated all kext files to the latest version
+5. Updated Opencore to the latest version available
+6. In the Drivers folder I left only the most necessary drivers
+7. Improved overall system stability
 
 **What about MasOS 15?**
 
