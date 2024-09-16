@@ -1,4 +1,8 @@
  ![photo](https://github.com/RubyFM1/phototototot/blob/main/Снимок%20экрана%202024-09-16%20в%2017.11.31.png)
+
+ **Metal benchmark**
+ ![photo](https://github.com/RubyFM1/phototototot/blob/main/Снимок%20экрана%202024-09-16%20в%2017.25.16.png)
+ 
  # Update
  **V3 Ready**
  
