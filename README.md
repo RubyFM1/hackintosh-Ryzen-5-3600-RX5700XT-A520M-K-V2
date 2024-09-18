@@ -24,6 +24,7 @@ MacPro 7.1
 2. Sidecar
 3. Bluetooth
 4. Maybe sleep
+5. Sound (I am trying to solve this problem, but from the looks of it the problem will not be solved anytime soon)
 # How to install?
 Replace all files and folders in your EFI folder with those you download here
 # Thanks
