@@ -12,6 +12,8 @@ This EFI version is for configurations only:
 **If you try to use this folder with a different configuration, you will get a kernel panic, and everything like that, the system simply won’t start**
 
 # MacOS Tahoe Update Info
+**Sound may not work on ALC897/887, use [THIS](https://olarila.com/topic/42836-easy-audio-solution-on-hackintosh-on-macos-tahoe/) guide**
+
 To update to MacOS 26 (Tahoe), you need to follow a few important steps, otherwise you will not be able to update
 1. Disable Whatevergreen.kext in config.plist by switching it to Disable
 2. Create your USBMap.kext using the guide [Corpnewt](https://github.com/corpnewt/USBMap)
