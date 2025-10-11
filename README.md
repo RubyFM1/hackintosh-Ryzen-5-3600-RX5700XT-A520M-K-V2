@@ -1,4 +1,4 @@
-![photo](https://github.com/RubyFM1/dawfefsdfs/blob/main/images.png)
+![photo](https://github.com/RubyFM1/hackintosh-Ryzen-5-3600-RX5700XT-A520M-K-V2/blob/main/images.png?raw=true)
 # Description
 **This is a universal EFI for all versions of MacOS (Catalina and higher)**
 
